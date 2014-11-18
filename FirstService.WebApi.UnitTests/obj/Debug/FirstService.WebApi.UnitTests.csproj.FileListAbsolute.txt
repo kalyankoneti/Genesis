@@ -1,0 +1,10 @@
+C:\DEV\SourceTreeTemplate\src\FirstService.WebApi.UnitTests\bin\Debug\FirstService.WebApi.UnitTests.dll
+C:\DEV\SourceTreeTemplate\src\FirstService.WebApi.UnitTests\bin\Debug\FirstService.WebApi.UnitTests.pdb
+C:\DEV\SourceTreeTemplate\src\FirstService.WebApi.UnitTests\bin\Debug\NSubstitute.dll
+C:\DEV\SourceTreeTemplate\src\FirstService.WebApi.UnitTests\bin\Debug\Should.dll
+C:\DEV\SourceTreeTemplate\src\FirstService.WebApi.UnitTests\bin\Debug\xunit.dll
+C:\DEV\SourceTreeTemplate\src\FirstService.WebApi.UnitTests\bin\Debug\NSubstitute.xml
+C:\DEV\SourceTreeTemplate\src\FirstService.WebApi.UnitTests\bin\Debug\xunit.xml
+C:\DEV\SourceTreeTemplate\src\FirstService.WebApi.UnitTests\obj\Debug\FirstService.WebApi.UnitTests.csprojResolveAssemblyReference.cache
+C:\DEV\SourceTreeTemplate\src\FirstService.WebApi.UnitTests\obj\Debug\FirstService.WebApi.UnitTests.dll
+C:\DEV\SourceTreeTemplate\src\FirstService.WebApi.UnitTests\obj\Debug\FirstService.WebApi.UnitTests.pdb

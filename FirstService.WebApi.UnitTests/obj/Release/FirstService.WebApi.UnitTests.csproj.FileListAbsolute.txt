@@ -1,0 +1,5 @@
+C:\DEV\SourceTreeTemplate\bin\FirstService.WebApi.UnitTests.dll
+C:\DEV\SourceTreeTemplate\bin\FirstService.WebApi.UnitTests.pdb
+C:\DEV\SourceTreeTemplate\src\FirstService.WebApi.UnitTests\obj\Release\FirstService.WebApi.UnitTests.csprojResolveAssemblyReference.cache
+C:\DEV\SourceTreeTemplate\src\FirstService.WebApi.UnitTests\obj\Release\FirstService.WebApi.UnitTests.dll
+C:\DEV\SourceTreeTemplate\src\FirstService.WebApi.UnitTests\obj\Release\FirstService.WebApi.UnitTests.pdb

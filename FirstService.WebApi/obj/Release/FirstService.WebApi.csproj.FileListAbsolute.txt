@@ -1,0 +1,5 @@
+C:\DEV\SourceTreeTemplate\bin\FirstService.WebApi.dll
+C:\DEV\SourceTreeTemplate\bin\FirstService.WebApi.pdb
+C:\DEV\SourceTreeTemplate\src\FirstService.WebApi\obj\Release\FirstService.WebApi.csprojResolveAssemblyReference.cache
+C:\DEV\SourceTreeTemplate\src\FirstService.WebApi\obj\Release\FirstService.WebApi.dll
+C:\DEV\SourceTreeTemplate\src\FirstService.WebApi\obj\Release\FirstService.WebApi.pdb
